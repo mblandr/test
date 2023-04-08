@@ -1,0 +1,7 @@
+{
+	"type": "module",
+	"dependencies": {
+		"pug": "^3.0.2",
+		"uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.20.0"
+	}
+}
