@@ -3,6 +3,9 @@
 	"engines": {
     "node": ">=19"
   },
+	"scripts": {
+		"start": "node server.js"
+	},
 	"dependencies": {
 		"pug": "^3.0.2",
 		"uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.20.0"
